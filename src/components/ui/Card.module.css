@@ -1,0 +1,10 @@
+.card {
+  background-color: aliceblue;
+  margin-bottom: 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+.card:hover {
+  transition: 300ms;
+  box-shadow: 1px 1px 3px 3px #1e3b58;
+}
